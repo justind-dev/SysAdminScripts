@@ -1,2 +1,2 @@
 # SysAdminScripts
- A colleciton of scripts used for managing things like vmware, active directory, 
+ A collection of scripts used for managing things like vmware, active directory, and others.
